@@ -9,3 +9,12 @@ function About() {
     </div>
   );
 }
+function NavBar() {
+  return(
+    <div id="navabar">
+      <NavBar/>
+    </div>
+  )
+
+  
+}
